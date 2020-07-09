@@ -1,0 +1,1 @@
+# platformsh-templates
